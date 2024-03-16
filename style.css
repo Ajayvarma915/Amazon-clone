@@ -43,7 +43,7 @@ header {
 .logo {
     width: 117.27px;
     height: 50px;
-    background: url('/Amazon_Clone/images/nav-logo.png');
+    background: url('/images/nav-logo.png');
     background-repeat: no-repeat;
     background-position-y: -39px;
 }
@@ -94,7 +94,7 @@ header {
     height: 18px;
     width: 15px;
     margin-top: -5px;
-    background: url('/Amazon_Clone/images/nav-logo.png');
+    background: url('/images/nav-logo.png');
     background-repeat: no-repeat;
     background-position-x: -70px;
     background-position-y: -377px;
@@ -227,7 +227,7 @@ header {
 .cart_logo {
     height: 26px;
     width: 40px;
-    background: url('/Amazon_Clone/images/nav-logo.png');
+    background: url('/images/nav-logo.png');
     background-repeat: no-repeat;
     background-position-y: -340px;
     background-position-x: -10px;
@@ -238,7 +238,7 @@ header {
 .zero_image {
     height: 12px;
     width: 19px;
-    background: url('/Amazon_Clone/images/zero_orange.png');
+    background: url('/images/zero_orange.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position-y: 0px;
@@ -1017,7 +1017,7 @@ hr {
 .amazon_image_container {
     height: 28px;
     width: 78px;
-    background-image: url('/Amazon_Clone/images/nav-logo.png');
+    background-image: url('/images/nav-logo.png');
     background-position-x: -10px;
     background-position-y: -85px;
 }
